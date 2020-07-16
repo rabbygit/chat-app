@@ -74,7 +74,7 @@
         logged: false,
         message: "",
         messages: [],
-        socket: io("http://localhost:3000/")
+        socket: io("https://chat-server-134.herokuapp.com/")
       };
     },
     methods: {
